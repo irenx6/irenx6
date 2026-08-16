@@ -1,5 +1,8 @@
 "𝕷𝖊𝖆𝖗𝖓 𝖍𝖔𝖜 𝖙𝖔 𝖑𝖔𝖛𝖊 𝖞𝖔𝖚𝖗𝖘𝖊𝖑𝖋 𝖋𝖎𝖗𝖘𝖙"
-<img width="2048" height="1157" alt="anh mck ngau qs" src="https://github.com/user-attachments/assets/515af7d8-739f-4afa-b113-189e316a9757" />
+<p align="center">
+  <img src="<img width="2048" height="1157" alt="anh mck ngau qs" src="https://github.com/user-attachments/assets/7775d577-b17a-4b74-8b3f-6b10b78155ab" />
+" width="400">
+</p>
 
 <!--
 **irenx6/irenx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
